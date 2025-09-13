@@ -1,0 +1,16 @@
+degree,salary,technologies,years_experience
+Bachelors,25000,python,1
+Masters,60000,"python,sql,aws",3
+Bachelors,70000,"java,sql",6
+PhD,130000,"python,sql,aws,spark",10
+Diploma,30000,"excel,powerbi",2
+Masters,90000,"python,tableau,sql",7
+Bachelors,140000,"java,spark,aws",15
+Bachelors,45000,"python,sql",4
+Masters,125000,"python,sql,aws,docker",12
+PhD,180000,"python,java,sql,spark",20
+Diploma,35000,"sql,excel",5
+Bachelors,95000,"python,sql,tableau",8
+Masters,150000,"python,aws,azure,kubernetes",14
+Bachelors,110000,"scala,spark,sql",9
+Masters,85000,"python,powerbi,sql",6
