@@ -1,0 +1,42 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Build / distribution directories
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+*.env
+.env.*
+
+# Data files (if you don’t want to push large CSVs)
+# Uncomment if needed:
+# *.csv
+# *.xlsx
+# *.parquet
